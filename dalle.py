@@ -4,9 +4,9 @@ from openai import AzureOpenAI
 import json
 
 
-endpoint='https://harsigenai.openai.azure.com/'
-deployment='chatcompletion'
-token_provider='a0acfb52a34249aca75662ce7bb7cfc3'
+endpoint='xxxxxx'
+deployment='xxxxx'
+token_provider='xxxxxx'
 
 client = AzureOpenAI(
     api_version="2024-02-01",
