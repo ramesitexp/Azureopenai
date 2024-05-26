@@ -8,9 +8,9 @@ search_endpoint = os.environ["SEARCH_ENDPOINT"]
 search_index = os.environ["SEARCH_INDEX"]
 """
 
-endpoint='https://harsigenai.openai.azure.com/'
-deployment='chatcompletion'
-token_provider='a0acfb52a34249aca75662ce7bb7cfc3'
+endpoint='xxxxx'
+deployment='xxxx'
+token_provider='xxxxx'
 
 
       
